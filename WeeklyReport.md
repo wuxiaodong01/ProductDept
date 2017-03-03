@@ -6,11 +6,11 @@
 
 
 ### 公募基金状态
-1. 中金新安[wangze]：XXXX
+- 中金新安[wangze]：XXXX
 
 
 ### 专户产品状态
-1. 优粤[XXXX]:XXXX
+- 优粤[XXXX]:XXXX
 
 
 
