@@ -2,7 +2,7 @@
 
 >please update this file in every friday.
 
->last update: 2017-3-3
+>last update: 2017-2-10
 
 
 ### 公募基金状态
@@ -41,6 +41,8 @@
 ####xiaowei
 
 ####wangze
+- obpi方案介绍
+- 金融街专户业绩比较
 
 ####wanying
 
