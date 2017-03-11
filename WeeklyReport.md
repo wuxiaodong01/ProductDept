@@ -2,7 +2,7 @@
 
 >please update this file in every friday.
 
->last update: 2017-2-10
+>last update: 2017-3-10
 
 
 ### 公募基金状态
