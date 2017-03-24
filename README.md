@@ -10,3 +10,4 @@
 
 ### WeeklyReport
 - 每周五，请大家各自Fork到自己的仓库，进行对各自修改，Commet以后，然后Pull request给我。我会Merge大家的工作。
+- 有冲突大家不用管，我会处理解决。
