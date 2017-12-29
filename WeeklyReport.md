@@ -1,6 +1,6 @@
 # Weekly Report
 
->please update this file in every friday.
+>每周五更新本文件，请注明本周的变化情况，用粗体表示，即内容前后都各自加一个\* 如**本周更新内容**
 
 ### 公募基金状态
 #### xiaowei
